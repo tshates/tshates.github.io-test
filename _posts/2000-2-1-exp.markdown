@@ -1,0 +1,11 @@
+---
+layout: default
+img: dna.jpg
+category: Experiences
+title: "Molecular Biology Bioinformatic Scientist"
+description: |
+---
+
+* __2016 – 2017__
+* *Company Name*
+* Activities: Project description...

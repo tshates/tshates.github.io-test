@@ -1,0 +1,14 @@
+---
+layout: default
+img: bachelor.jpg
+category: Education
+title: Bachelor's in Biological Sciences
+description: |
+---
+
+* __2005 - 2010__
+* University of California
+* Advisor: Dr. PI Name
+* Scholarship from: NSF
+
+

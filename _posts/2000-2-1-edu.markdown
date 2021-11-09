@@ -1,0 +1,14 @@
+---
+layout: default
+img: master.jpg
+category: Education
+title: Master's in Plant Physiology
+description: |
+---
+
+* __2010 - 2012__
+* University of California
+* Dissertation Titile
+* Advisor: Dr. PI Name
+* Scholarship from: NSF
+
